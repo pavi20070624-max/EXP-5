@@ -29,9 +29,34 @@ PROCEDURE:
 4. A graph is plotted between zener current (Iz) on y-axis and zener voltage (Vz) on x-axis.
 OBSERVATIONS:
 
+<img width="1527" height="1600" alt="image" src="https://github.com/user-attachments/assets/630890e4-880c-4a7b-ad13-e4ac74eae219" />
+
+<img width="1447" height="1600" alt="image" src="https://github.com/user-attachments/assets/eb804196-c22f-456d-bfd5-9dfe210e7afc" />
+
+<img width="1242" height="1600" alt="image" src="https://github.com/user-attachments/assets/54be2b75-82c5-4e86-9dad-d3cc6e5a0168" />
+
+<img width="1023" height="1328" alt="image" src="https://github.com/user-attachments/assets/f182c2d5-eb34-4fcc-811b-4aeac32072bc" />
+
+
+
 REGULATION CHARACTERISTICS:
 
+
+
+<img width="1600" height="965" alt="image" src="https://github.com/user-attachments/assets/0bec5ad1-15c8-453e-a717-94c06fd288e7" />
+<img width="1440" height="900" alt="BEEE expt5" src="https://github.com/user-attachments/assets/7cebb3ef-90d8-4010-950e-66f43ed35ee3" />
+
+
+
 V-I & REGULATION CHARACTERISTICS:
+
+
+
+<img width="1525" height="905" alt="image" src="https://github.com/user-attachments/assets/4eeb078d-bbf6-46bc-ae50-0807ed501a6e" />
+
+<img width="1440" height="852" alt="Expt 5 b" src="https://github.com/user-attachments/assets/1784fef9-0640-4d28-8e0c-426e9287ce54" />
+
+
 
 PRECAUTIONS:
 
